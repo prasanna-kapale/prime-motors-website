@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Prime Motors</string>
+    <string name="title_activity_main">Prime Motors</string>
+    <string name="package_name">com.primemotors.app</string>
+    <string name="custom_url_scheme">com.primemotors.app</string>
+</resources>
